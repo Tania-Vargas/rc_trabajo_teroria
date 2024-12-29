@@ -1,0 +1,9 @@
+{
+  "p1": { "type": "joint", "move": "rotation", "value": 0.0, "limits": [-180.0, 180.0] },
+  "l1": { "type": "linker", "value": 5.0 },
+  "p2": { "type": "joint", "move": "rotation", "value": 0.0, "limits": [-45.0, 45.0] },
+  "l2": { "type": "linker", "value": 5.0 },
+  "p3": { "type": "joint", "move": "rotation", "value": 0.0, "limits": [-180.0, 180.0] },
+  "l3": { "type": "linker", "value": 5.0 },
+  "ef": { "type": "final" }
+}
